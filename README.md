@@ -1,7 +1,7 @@
 # LMImage-gallery (v1.0)
 
 ##### Introduction
-LMImage Gallery is a little project to bring people an easy to use and fast image gallery for their sites.<br />This library uses a lot of CSS3 functionalities so take attention to the browser you usually use. This gallery can be used with mouse or with arrow keys and it is fully responsive, so you can use it in any device.
+LMImage Gallery is a little project made to bring people an easy and fast way to make image gallery for their sites.<br />This library uses a lot of CSS3 functionalities so pay attention to the browser you usually use. This gallery can be used with mouse or with arrow keys and it is fully responsive, so you can use it in any device.
 
 ##### Installation
 <b>This library needs <a href="https://jquery.com/" target="_blank">Jquery</a> to work.</b><br />
