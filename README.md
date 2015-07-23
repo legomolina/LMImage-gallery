@@ -12,7 +12,7 @@ To use LMWeb Finder you need to import js file into your html:
 ```javascript
     <script src="js/libs/lmimagegallery.js" type="text/javascript"></script>
 ```
-Also you need to create a script into your html head in order to assign functions to key arrows, icons and instance the library:
+Also you need to create a script into your html head in order to assign functions to key arrows, icons and instantiate the library:
 ```javascript
     <script>
         window.onload = function () {
@@ -113,6 +113,6 @@ window.onkeydown = function (e) { //when anykey is pressed
 };
 ```
 There is an example for you to view how it works.<br />The complete code to place in your html is in index.html file.<br /><br />
-All images are extrated from "Sample images" folder from Windows.<br />
+All images are extracted from "Sample images" folder from Windows.<br />
 Control icons are from Font Awesome. <a href="http://fortawesome.github.io/Font-Awesome/" title="Font awesome">Font Awesome by Dave Gandy</a><br />
 <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/" target="_blank"><img alt="Licencia de Creative Commons" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">LMWebFinder</span> by <span xmlns:cc="http://creativecommons.org/ns#" property="cc:attributionName">legomolina</span> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/" target="_blank">Creative Commons Reconocimiento-CompartirIgual 4.0 Internacional License</a>.
